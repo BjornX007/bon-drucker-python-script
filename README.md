@@ -4,7 +4,8 @@ Ein kleiner, ressourcenschonender Dienst, der eine Online-Bestelldatenbank über
 
 Das Projekt ist dafür ausgelegt, auf einem **Raspberry Pi im Restaurant** zu laufen. Für die Entwicklung kann es unverändert auf jedem PC mit einem **virtuellen Drucker** betrieben werden (die Browseransicht übernimmt dabei die Funktion des Druckers).
 
-<!-- ![Live-Ansicht](docs/screenshot.png) -->
+<img width="317" height="396" alt="image" src="https://github.com/user-attachments/assets/53a7d11b-61cb-4fb3-b799-0a69e1c3f0ec" />
+
 
 ## Warum gibt es das?
 
